@@ -1,0 +1,12 @@
+{
+  "attack1": {
+    "name": "light attack",
+    "damage": 5,
+    "range": 10 //from anker
+  },
+  "attack2": {
+    "name": "heavy attack",
+    "damage": 15,
+    "range": 10
+  }
+}

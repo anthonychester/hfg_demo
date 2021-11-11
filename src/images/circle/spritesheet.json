@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "image": "./atlas.png"
+  },
+  "animations": {
+    "jump": ["jump_01.png", "jump_02.png", "jump_03.png", "jump_04.png"],
+    "idle": ["idle_01.png", "idle_02.png", "idle_03.png", "idle_04.png"]
+  },
+  "frames": {
+    "jump_01.png": {
+      "frame": { "x": 0, "y": 0, "w": 128, "h": 128 },
+      "sourceSize": { "w": 128, "h": 128 }
+    },
+    "jump_02.png": {
+      "frame": { "x": 128, "y": 0, "w": 128, "h": 128 },
+      "sourceSize": { "w": 128, "h": 128 }
+    },
+    "jump_03.png": {
+      "frame": { "x": 256, "y": 0, "w": 128, "h": 128 },
+      "sourceSize": { "w": 128, "h": 128 }
+    },
+    "jump_04.png": {
+      "frame": { "x": 384, "y": 0, "w": 128, "h": 128 },
+      "sourceSize": { "w": 128, "h": 128 }
+    },
+    "idle_01.png": {
+      "frame": { "x": 0, "y": 128, "w": 128, "h": 128 },
+      "sourceSize": { "w": 128, "h": 128 }
+    },
+    "idle_02.png": {
+      "frame": { "x": 128, "y": 128, "w": 128, "h": 128 },
+      "sourceSize": { "w": 128, "h": 128 }
+    },
+    "idle_03.png": {
+      "frame": { "x": 256, "y": 128, "w": 128, "h": 128 },
+      "sourceSize": { "w": 128, "h": 128 }
+    },
+    "idle_04.png": {
+      "frame": { "x": 384, "y": 128, "w": 128, "h": 128 },
+      "sourceSize": { "w": 128, "h": 128 }
+    }
+  }
+}

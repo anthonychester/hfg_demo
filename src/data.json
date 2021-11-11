@@ -1,0 +1,21 @@
+{
+  "version": "0.0.1",
+  "control": {
+    "player1": {
+      "UP": 87,
+      "DOWN": 83,
+      "LEFT": 65,
+      "RIGHT": 68,
+      "ATTACK1": 84,
+      "ATTACK2": 89
+    },
+    "player2": {
+      "UP": 38,
+      "DOWN": 40,
+      "LEFT": 37,
+      "RIGHT": 39,
+      "ATTACK1": 190,
+      "ATTACK2": 191
+    }
+  }
+}

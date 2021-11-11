@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "image": "./atlas.png"
+  },
+  "animations": {
+    "icon": [
+      "icon_01.png",
+      "icon_02.png",
+      "icon_03.png",
+      "icon_04.png",
+      "icon_05.png",
+      "icon_06.png"
+    ]
+  },
+  "frames": {
+    "icon_01.png": {
+      "frame": { "x": 0, "y": 0, "w": 32, "h": 32 },
+      "sourceSize": { "w": 32, "h": 32 }
+    },
+    "icon_02.png": {
+      "frame": { "x": 32, "y": 0, "w": 32, "h": 32 },
+      "sourceSize": { "w": 32, "h": 32 }
+    },
+    "icon_03.png": {
+      "frame": { "x": 64, "y": 0, "w": 32, "h": 32 },
+      "sourceSize": { "w": 32, "h": 32 }
+    },
+    "icon_04.png": {
+      "frame": { "x": 96, "y": 0, "w": 32, "h": 32 },
+      "sourceSize": { "w": 32, "h": 32 }
+    },
+    "icon_05.png": {
+      "frame": { "x": 128, "y": 0, "w": 32, "h": 32 },
+      "sourceSize": { "w": 32, "h": 32 }
+    },
+    "icon_06.png": {
+      "frame": { "x": 160, "y": 0, "w": 32, "h": 32 },
+      "sourceSize": { "w": 32, "h": 32 }
+    }
+  }
+}
